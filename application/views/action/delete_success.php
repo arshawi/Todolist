@@ -1,0 +1,1 @@
+<div id="notify" class="valid">Penghapusan Data Berhasil</div>
